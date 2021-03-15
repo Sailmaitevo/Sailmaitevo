@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Sailmaitevo
+- 👀 I’m interested in PHP, MySQL, AJAX
+- 🌱 I’m currently learning HTML, CSS, JS, Bootstrap, React (with Next.js) and Python
+- 📫 How to reach me: You don't reach me!
