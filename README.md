@@ -1,2 +1,2 @@
-- Learn You A Haskell For Good
+- Learn You A Haskell For Great Good
 - 📫 How to reach me: You don't reach me!
